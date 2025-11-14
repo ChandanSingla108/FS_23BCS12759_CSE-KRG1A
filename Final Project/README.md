@@ -344,10 +344,10 @@ Developer: Chandan Singla
 
 🖼️ Adding Screenshots
 
-![manager dashboard screenshot](./Final%20Project/screenshots/Screenshot%202025-11-12%20100347.png)
-![projects screenshot](./Final%20Project/screenshots/Screenshot%202025-11-12%20100401.png)
-![manage teams screenshot](./Final%20Project/screenshots/Screenshot%202025-11-12%20100419.png)
-![chat screenshot](./Final%20Project/screenshots/Screenshot%202025-11-12%20100431.png)
-![register screenshot](./Final%20Project/screenshots/Screenshot%202025-11-12%20100457.png)
-![member dashboard screenshot](./Final%20Project/screenshots/Screenshot%202025-11-12%20100524.png)
-![kanban board screenshot](./Final%20Project/screenshots/Screenshot%202025-11-12%20100543.png)
+![manager dashboard screenshot](./screenshots/Screenshot%202025-11-12%20100347.png)
+![projects screenshot](./screenshots/Screenshot%202025-11-12%20100401.png)
+![manage teams screenshot](./screenshots/Screenshot%202025-11-12%20100419.png)
+![chat screenshot](./screenshots/Screenshot%202025-11-12%20100431.png)
+![register screenshot](./screenshots/Screenshot%202025-11-12%20100457.png)
+![member dashboard screenshot](./screenshots/Screenshot%202025-11-12%20100524.png)
+![kanban board screenshot](./screenshots/Screenshot%202025-11-12%20100543.png)
