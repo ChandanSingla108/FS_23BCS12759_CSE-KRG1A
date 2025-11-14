@@ -343,10 +343,10 @@ Developer: Chandan Singla
 “Build smart, collaborate efficiently, and scale seamlessly — that’s the power of ProjectManagementApp.” ✨
 
 ### 🖼️ Adding Screenshots
-![manager dashboard screenshot](./screenshots/Screenshot1.png)
-![projects screenshot](./screenshots/Screenshot2.png)
-![manage teams screenshot](./screenshots/Screenshot3.png)
-![chat screenshot](./screenshots/Screenshot4.png)
-![register screenshot](./screenshots/Screenshot5.png)
-![member dashboard screenshot](./screenshots/Screenshot6.png)
-![kanban board screenshot](./screenshots/Screenshot7.png)
+![manager dashboard screenshot](./screenshots/Screenshot 2025-11-12 100347.png)
+![projects screenshot](./screenshots/Screenshot 2025-11-12 100401.png)
+![manage teams screenshot](./screenshots/Screenshot 2025-11-12 100419.png)
+![chat screenshot](./screenshots/Screenshot 2025-11-12 100431.png)
+![register screenshot](./screenshots/Screenshot 2025-11-12 100457.png)
+![member dashboard screenshot](./screenshots/Screenshot 2025-11-12 100524.png)
+![kanban board screenshot](./screenshots/Screenshot 2025-11-12 100543.png)
